@@ -15,7 +15,7 @@ Welcome to the Quiz App! This application is designed to provide an interactive 
 
 ## Demo
 
-Check out the live demo of the Quiz App [here](https://quizy-yusha.vercel.app/).
+Check out the live demo of the Quiz App [here](https://jusish-quizy.vercel.app/).
 
 ## Features
 
@@ -51,7 +51,7 @@ Ensure you have the following installed:
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/yusha0123/Quiz-App.git
+   git clone https://github.com/jusish/Quizy.git
    ```
 2. Navigate to the project directory
    ```sh
@@ -105,5 +105,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Yusha Tahlil - [LinkedIn](https://www.linkedin.com/in/yusha-tahlil/)
-Project Link: [https://github.com/yusha0123/Quiz-App](https://github.com/yusha0123/Quiz-App)
+Yusha Tahlil - [LinkedIn](https://www.linkedin.com/in/ishimwe-justin-a67b85268/)
+Project Link: [https://github.com/jusish/Quizy](https://github.com/jusish/Quizy)
